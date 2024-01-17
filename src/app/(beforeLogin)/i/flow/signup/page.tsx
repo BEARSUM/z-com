@@ -1,3 +1,5 @@
+import SignupModal from "@/app/(beforeLogin)/_component/SignupModal";
+
 export default function Signup() {
-  return <div>Signup Modal</div>;
+  return <SignupModal />;
 }
